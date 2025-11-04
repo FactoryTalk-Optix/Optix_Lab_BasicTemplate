@@ -1,0 +1,10 @@
+Name: BaseControlsScreen
+Type: FolderType
+Children:
+- Name: stringVariable
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "Text..."
+- Name: boolVariable
+  Type: BaseDataVariableType
+  DataType: Boolean
